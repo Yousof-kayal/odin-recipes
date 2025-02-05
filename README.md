@@ -1,7 +1,7 @@
 # odin-recipies
 
 #### Description
-This project is the first project of Odin Project, an Open Source Course designed to teach me front end development. 
+This project is the first project of Odin Project, an Open Source Course designed to teach me Fullstack development. 
 
 It includes some of my favorite recipes that I have found on allrecipes.com, The butter chicken one is great.
 
